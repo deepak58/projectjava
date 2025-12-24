@@ -16,6 +16,7 @@ public class java01 {
     public void vowel(char let){
         if (let=='a'||let=='e'||let=='i'||let=='o'||let=='u'){
             System.out.println("Its a vowel");
+            System.out.println("new");
         }else {
             System.out.println("Its a consonant");
         }
